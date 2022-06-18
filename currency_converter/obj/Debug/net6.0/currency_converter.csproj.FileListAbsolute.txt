@@ -1,0 +1,15 @@
+C:\Users\user\RiderProjects\C_sharp\exam\currency_converter\currency_converter\bin\Debug\net6.0\currency_converter.exe
+C:\Users\user\RiderProjects\C_sharp\exam\currency_converter\currency_converter\bin\Debug\net6.0\currency_converter.deps.json
+C:\Users\user\RiderProjects\C_sharp\exam\currency_converter\currency_converter\bin\Debug\net6.0\currency_converter.runtimeconfig.json
+C:\Users\user\RiderProjects\C_sharp\exam\currency_converter\currency_converter\bin\Debug\net6.0\currency_converter.dll
+C:\Users\user\RiderProjects\C_sharp\exam\currency_converter\currency_converter\bin\Debug\net6.0\currency_converter.pdb
+C:\Users\user\RiderProjects\C_sharp\exam\currency_converter\currency_converter\obj\Debug\net6.0\currency_converter.csproj.AssemblyReference.cache
+C:\Users\user\RiderProjects\C_sharp\exam\currency_converter\currency_converter\obj\Debug\net6.0\currency_converter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\RiderProjects\C_sharp\exam\currency_converter\currency_converter\obj\Debug\net6.0\currency_converter.AssemblyInfoInputs.cache
+C:\Users\user\RiderProjects\C_sharp\exam\currency_converter\currency_converter\obj\Debug\net6.0\currency_converter.AssemblyInfo.cs
+C:\Users\user\RiderProjects\C_sharp\exam\currency_converter\currency_converter\obj\Debug\net6.0\currency_converter.csproj.CoreCompileInputs.cache
+C:\Users\user\RiderProjects\C_sharp\exam\currency_converter\currency_converter\obj\Debug\net6.0\currency_converter.dll
+C:\Users\user\RiderProjects\C_sharp\exam\currency_converter\currency_converter\obj\Debug\net6.0\refint\currency_converter.dll
+C:\Users\user\RiderProjects\C_sharp\exam\currency_converter\currency_converter\obj\Debug\net6.0\currency_converter.pdb
+C:\Users\user\RiderProjects\C_sharp\exam\currency_converter\currency_converter\obj\Debug\net6.0\currency_converter.genruntimeconfig.cache
+C:\Users\user\RiderProjects\C_sharp\exam\currency_converter\currency_converter\obj\Debug\net6.0\ref\currency_converter.dll
